@@ -30,9 +30,9 @@ In short, passionate about everything related to computer science, IT business, 
 - (Architecture) Design and architect complex mobile apps, web-services and APIs.
 
 ### Some facts
-- 7+ years of experience in mobile development.
-- 7+ years of experience in Computer Science.
-- 3+ years of team management.
+- 8+ years of experience in mobile development.
+- 8+ years of experience in Computer Science.
+- 5+ years of team management.
 
 ### 📰Blog Posts (sorry, old ones)
 - [Conditional rendering in React Native](https://medium.com/@szholdiyarov/conditional-rendering-in-react-native-286351816db4)
